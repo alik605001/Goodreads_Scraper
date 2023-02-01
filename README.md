@@ -8,7 +8,7 @@ Instead, this tool uses the search bar on Goodreads to find the id, meaning that
 
 ### Input
 
-This script requires the search terms in a csv file. The search terms should include title and, preferably, be specific such as including author name.
+This script requires the search terms in a csv file. The search terms should include title and, preferably, be specific such as also including author name.
 
 ### Output
 
