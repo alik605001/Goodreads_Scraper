@@ -6,13 +6,9 @@ The motivation for developing this tool is because the Goodreads API is no longe
 
 Instead, this tool uses the search bar on Goodreads to find the id, meaning that only key search terms (i.e. title/author name) are needed as an input. 
 
-<br><br>
-
 ### Input
 
 This script requires the search terms in a csv file. The search terms should include title and, preferably, be specific such as including author name.
-
-<br><br>
 
 ### Output
 
