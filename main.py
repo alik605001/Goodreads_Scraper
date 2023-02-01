@@ -37,6 +37,7 @@ def get_book_info(book_codes):
         else:
             json = {
                 'title': book.get_title(),
+                'book_ID': b,
                 'author(s)': book.get_author(),
                 'year_published': book.get_year(),
                 'rating': book.get_rating(),
