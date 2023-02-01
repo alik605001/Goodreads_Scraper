@@ -56,6 +56,5 @@ with open("books.csv", 'r') as file:
     csv_reader = csv.reader(file)
     book_list = [book[0] for book in csv_reader]
     b_codes = get_book_codes(book_list=book_list)
-    print(b_codes)
     j = get_book_info(book_codes=b_codes)
     print(j)
